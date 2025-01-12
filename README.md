@@ -7,7 +7,7 @@ This project focuses on **fine-tuning Vision Transformers (ViT)** to classify hu
 The key components of this project include:
 1. **Vision Transformers (ViT)**: A state-of-the-art model architecture used for image classification tasks, fine-tuned for this specific use case.
 2. **Emotion Dataset**: A curated dataset of 800 facial images labeled with emotional categories.
-3. **Fine-Tuning Process**: Optimization of the pre-trained ViT model for classifying emotions, using transfer learning techniques.
+3. **Fine-Tuning Process**: Optimization of the pre-trained ViT model for classifying emotions.
 
 ## Technologies Used
 - **Python**: For implementing the fine-tuning process and running experiments.
